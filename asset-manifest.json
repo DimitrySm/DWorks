@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/DWorks/static/css/main.8840a83e.chunk.css",
+    "main.js": "/DWorks/static/js/main.e154b392.chunk.js",
+    "main.js.map": "/DWorks/static/js/main.e154b392.chunk.js.map",
+    "runtime-main.js": "/DWorks/static/js/runtime-main.dec2bedd.js",
+    "runtime-main.js.map": "/DWorks/static/js/runtime-main.dec2bedd.js.map",
+    "static/js/2.15207e02.chunk.js": "/DWorks/static/js/2.15207e02.chunk.js",
+    "static/js/2.15207e02.chunk.js.map": "/DWorks/static/js/2.15207e02.chunk.js.map",
+    "static/js/3.5a62ca19.chunk.js": "/DWorks/static/js/3.5a62ca19.chunk.js",
+    "static/js/3.5a62ca19.chunk.js.map": "/DWorks/static/js/3.5a62ca19.chunk.js.map",
+    "index.html": "/DWorks/index.html",
+    "static/css/main.8840a83e.chunk.css.map": "/DWorks/static/css/main.8840a83e.chunk.css.map",
+    "static/js/2.15207e02.chunk.js.LICENSE.txt": "/DWorks/static/js/2.15207e02.chunk.js.LICENSE.txt",
+    "static/media/MyCollages.b84944e8.jpg": "/DWorks/static/media/MyCollages.b84944e8.jpg",
+    "static/media/SpaceX.063a5597.jpg": "/DWorks/static/media/SpaceX.063a5597.jpg",
+    "static/media/avtotex.by.fb023f03.jpg": "/DWorks/static/media/avtotex.by.fb023f03.jpg",
+    "static/media/css-3.c32f0750.svg": "/DWorks/static/media/css-3.c32f0750.svg",
+    "static/media/git.b507d552.svg": "/DWorks/static/media/git.b507d552.svg",
+    "static/media/html-5.d71cc17f.svg": "/DWorks/static/media/html-5.d71cc17f.svg",
+    "static/media/js.d20b8166.svg": "/DWorks/static/media/js.d20b8166.svg",
+    "static/media/logo.5b9d6073.jpg": "/DWorks/static/media/logo.5b9d6073.jpg",
+    "static/media/main_bg.65335cba.png": "/DWorks/static/media/main_bg.65335cba.png",
+    "static/media/react.b929ab2f.svg": "/DWorks/static/media/react.b929ab2f.svg",
+    "static/media/sass.abeac5b5.svg": "/DWorks/static/media/sass.abeac5b5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dec2bedd.js",
+    "static/js/2.15207e02.chunk.js",
+    "static/css/main.8840a83e.chunk.css",
+    "static/js/main.e154b392.chunk.js"
+  ]
+}
