@@ -1,0 +1,26 @@
+.hire {
+  display: flex;
+  height: 290px;
+  background-color: #f0f0f0;
+  text-align: center;
+  align-items: center;
+}
+.hire .hire__inner {
+  display: flex;
+  flex-direction: column;
+  background-color: #f0f0f0;
+  text-align: center;
+  align-items: center;
+}
+
+.hire h2 {
+  font-size: 30px;
+  margin-bottom: 70px;
+  width: 100%;
+}
+
+@media (max-width: 380px) {
+  .hire__inner h2 {
+    margin-bottom: 30px;
+  }
+}

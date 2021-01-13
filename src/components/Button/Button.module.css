@@ -1,0 +1,32 @@
+.basicBox {
+  font-family: "Playfair Display", serif;
+  color: #b4ad9e;
+  font-size: 15px;
+  border: none;
+  background: none;
+  outline: none;
+  text-transform: uppercase;
+  width: 130px;
+  height: 65px;
+  text-align: center;
+  line-height: 65px;
+  margin: 10px auto;
+  position: relative;
+  cursor: pointer;
+}
+svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+svg rect {
+  stroke: #b4ad9e;
+  stroke-width: 1;
+  transition: 0.8s;
+  stroke-dasharray: 400, 0;
+}
+.basicBox:hover svg rect {
+  stroke-width: 5;
+  stroke-dasharray: 35, 245;
+  stroke-dashoffset: 38;
+}
