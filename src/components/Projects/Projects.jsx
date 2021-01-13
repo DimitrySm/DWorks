@@ -3,7 +3,7 @@ import s from "./Projects.module.css";
 import "../../index.css";
 import avtotex from "../../assets/Img/projects/avtotex.by.jpg";
 import spaceX from "../../assets/Img/projects/SpaceX.jpg";
-import syCollages from "../../assets/Img/projects/MyCollages.jpg";
+import myCollages from "../../assets/Img/projects/MyCollages.jpg";
 
 const Projects = () => {
   return (
@@ -36,7 +36,7 @@ const Projects = () => {
           </div>
           <div className={s.posts}>
             <div className={s.works__item}>
-              <img src={spaceX} alt="" className={s.works__photo} />
+              <img src={myCollages} alt="" className={s.works__photo} />
               <div className={s.works__content}>
                 <div className={s.work__tittle}>Landing Pages</div>
                 <div className={s.work__text}>
@@ -57,7 +57,7 @@ const Projects = () => {
           </div>
           <div className={s.posts}>
             <div className={s.works__item}>
-              <img src={syCollages} alt="" className={s.works__photo} />
+              <img src={spaceX} alt="" className={s.works__photo} />
               <div className={s.works__content}>
                 <div className={s.work__tittle}>SpaceX</div>
                 <div className={s.work__text}>
