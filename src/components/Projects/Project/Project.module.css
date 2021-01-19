@@ -1,0 +1,107 @@
+.posts {
+  width: 50%;
+  margin-bottom: 50px;
+  padding: 0 30px;
+  overflow: hidden;
+}
+.posts .works__item {
+  width: 100%;
+  position: relative;
+  height: 350px;
+  overflow: hidden;
+}
+.posts .works__photo {
+  display: block;
+  width: 100%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  height: 100%;
+  transform: translate3d(-50%, -50%, 0);
+  filter: grayscale(100%);
+}
+.posts .works__content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  filter: grayscale(80%);
+  background-color: rgba(158, 150, 115, 0.9);
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  transition: opacity 0.2s linear;
+}
+.posts .work__tittle {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  margin-bottom: 5px;
+}
+.posts .work__text .work__text__link {
+  text-decoration: none;
+  font-size: 16px;
+  color: #fff;
+  border-bottom: transparent;
+  transition: all 0.2s linear;
+}
+.posts .work__text .work__text__link:hover {
+  border-bottom: 1px solid #fff;
+  color: #fff;
+}
+.posts .works__item:hover .works__content {
+  opacity: 1;
+}
+.posts .works__item:hover .works__photo {
+  filter: grayscale(0%);
+}
+.posts .posts__tittle {
+  margin: 35px 0;
+  text-transform: uppercase;
+  color: #b4ad9e;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+.posts h2 {
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.posts img {
+  display: block;
+  width: 100%;
+}
+
+@media (max-width: 779px) {
+  .works__item {
+    max-height: 280px;
+  }
+}
+
+@media (max-width: 675px) {
+  .posts {
+    width: 100% !important;
+  }
+  .posts .works__item {
+    max-height: 380px;
+  }
+}
+@media (max-width: 525px) {
+  .works__item {
+    min-width: 100%;
+    height: 300px !important;
+  }
+}
+
+@media (max-width: 320px) {
+  .works__item {
+    min-width: 100%;
+    height: 180px !important;
+  }
+}
