@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DWorks/static/css/main.8840a83e.chunk.css",
-    "main.js": "/DWorks/static/js/main.aaabd366.chunk.js",
-    "main.js.map": "/DWorks/static/js/main.aaabd366.chunk.js.map",
-    "runtime-main.js": "/DWorks/static/js/runtime-main.dec2bedd.js",
-    "runtime-main.js.map": "/DWorks/static/js/runtime-main.dec2bedd.js.map",
-    "static/js/2.15207e02.chunk.js": "/DWorks/static/js/2.15207e02.chunk.js",
-    "static/js/2.15207e02.chunk.js.map": "/DWorks/static/js/2.15207e02.chunk.js.map",
-    "static/js/3.5a62ca19.chunk.js": "/DWorks/static/js/3.5a62ca19.chunk.js",
-    "static/js/3.5a62ca19.chunk.js.map": "/DWorks/static/js/3.5a62ca19.chunk.js.map",
+    "main.css": "/DWorks/static/css/main.c16f99f9.chunk.css",
+    "main.js": "/DWorks/static/js/main.101367b3.chunk.js",
+    "main.js.map": "/DWorks/static/js/main.101367b3.chunk.js.map",
+    "runtime-main.js": "/DWorks/static/js/runtime-main.4e07c268.js",
+    "runtime-main.js.map": "/DWorks/static/js/runtime-main.4e07c268.js.map",
+    "static/js/2.f2f01b1c.chunk.js": "/DWorks/static/js/2.f2f01b1c.chunk.js",
+    "static/js/2.f2f01b1c.chunk.js.map": "/DWorks/static/js/2.f2f01b1c.chunk.js.map",
+    "static/js/3.3d6a441d.chunk.js": "/DWorks/static/js/3.3d6a441d.chunk.js",
+    "static/js/3.3d6a441d.chunk.js.map": "/DWorks/static/js/3.3d6a441d.chunk.js.map",
     "index.html": "/DWorks/index.html",
-    "static/css/main.8840a83e.chunk.css.map": "/DWorks/static/css/main.8840a83e.chunk.css.map",
-    "static/js/2.15207e02.chunk.js.LICENSE.txt": "/DWorks/static/js/2.15207e02.chunk.js.LICENSE.txt",
+    "static/css/main.c16f99f9.chunk.css.map": "/DWorks/static/css/main.c16f99f9.chunk.css.map",
+    "static/js/2.f2f01b1c.chunk.js.LICENSE.txt": "/DWorks/static/js/2.f2f01b1c.chunk.js.LICENSE.txt",
     "static/media/MyCollages.b84944e8.jpg": "/DWorks/static/media/MyCollages.b84944e8.jpg",
     "static/media/SpaceX.063a5597.jpg": "/DWorks/static/media/SpaceX.063a5597.jpg",
     "static/media/avtotex.by.fb023f03.jpg": "/DWorks/static/media/avtotex.by.fb023f03.jpg",
@@ -25,9 +25,9 @@
     "static/media/sass.abeac5b5.svg": "/DWorks/static/media/sass.abeac5b5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dec2bedd.js",
-    "static/js/2.15207e02.chunk.js",
-    "static/css/main.8840a83e.chunk.css",
-    "static/js/main.aaabd366.chunk.js"
+    "static/js/runtime-main.4e07c268.js",
+    "static/js/2.f2f01b1c.chunk.js",
+    "static/css/main.c16f99f9.chunk.css",
+    "static/js/main.101367b3.chunk.js"
   ]
 }
