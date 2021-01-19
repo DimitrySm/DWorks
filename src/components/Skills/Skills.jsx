@@ -18,9 +18,11 @@ const Skills = () => {
               <div className={s.skill__item__body}>
                 <h4>React</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Molestiae quaerat tempore architecto et delectus iure fuga
-                  inventore excepturi reiciendis blanditiis.
+                  React — JavaScript-библиотека с открытым исходным кодом для
+                  разработки пользовательских интерфейсов. React разрабатывается
+                  и поддерживается Facebook, Instagram и сообществом отдельных
+                  разработчиков и корпораций. React может использоваться для
+                  разработки одностраничных и мобильных приложений.
                 </p>
               </div>
             </div>
@@ -29,9 +31,8 @@ const Skills = () => {
               <div className={s.skill__item__body}>
                 <h4>HTML5</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Molestiae quaerat tempore architecto et delectus iure fuga
-                  inventore excepturi reiciendis blanditiis.
+                  HTML5 — язык для структурирования и представления содержимого
+                  всемирной паутины.
                 </p>
               </div>
             </div>
@@ -40,9 +41,9 @@ const Skills = () => {
               <div className={s.skill__item__body}>
                 <h4>CSS</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Molestiae quaerat tempore architecto et delectus iure fuga
-                  inventore excepturi reiciendis blanditiis.
+                  CSS — формальный язык описания внешнего вида документа,
+                  написанного с использованием языка разметки. Также может
+                  применяться к любым XML-документам, например, к SVG или XUL.
                 </p>
               </div>
             </div>
@@ -51,20 +52,23 @@ const Skills = () => {
               <div className={s.skill__item__body}>
                 <h4>JS</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Molestiae quaerat tempore architecto et delectus iure fuga
-                  inventore excepturi reiciendis blanditiis.
+                  JavaScript — мультипарадигменный язык программирования.
+                  Поддерживает объектно-ориентированный, императивный и
+                  функциональный стили. Является реализацией стандарта
+                  ECMAScript. JavaScript обычно используется как встраиваемый
+                  язык для программного доступа к объектам приложений.
                 </p>
               </div>
             </div>
             <div className={s.skill__item}>
               <img src={git} alt="" />
               <div className={s.skill__item__body}>
-                <h4>Git Hub</h4>
+                <h4>GitHub</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Molestiae quaerat tempore architecto et delectus iure fuga
-                  inventore excepturi reiciendis blanditiis.
+                  GitHub — крупнейший веб-сервис для хостинга IT-проектов и их
+                  совместной разработки. Веб-сервис основан на системе контроля
+                  версий Git и разработан на Ruby on Rails и Erlang компанией
+                  GitHub, Inc.
                 </p>
               </div>
             </div>
@@ -73,9 +77,9 @@ const Skills = () => {
               <div className={s.skill__item__body}>
                 <h4>SASS</h4>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Molestiae quaerat tempore architecto et delectus iure fuga
-                  inventore excepturi reiciendis blanditiis.
+                  Sass — модуль, включенный в Haml. Sass — это метаязык на
+                  основе CSS, предназначенный для увеличения уровня абстракции
+                  CSS-кода и упрощения файлов каскадных таблиц стилей.
                 </p>
               </div>
             </div>
