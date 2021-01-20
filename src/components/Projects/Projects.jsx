@@ -14,7 +14,7 @@ const Projects = (props) => {
   ));
 
   return (
-    <section className={s.project}>
+    <section className={s.project} id="projects">
       <div className="container">
         <h2 className={s.project__title}>Мои Работы</h2>
       </div>

@@ -1,4 +1,6 @@
 import "./App.css";
+import React, { useState } from "react";
+
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
@@ -94,9 +96,19 @@ function App() {
     },
   ];
 
+  const [closedMenu, setClosedMenuMenu] = useState(true);
+
+  const onClick = () => {
+    if (closedMenu === true) {
+      setClosedMenuMenu(false);
+    } else {
+      setClosedMenuMenu(true);
+    }
+  };
+
   return (
     <div className="App">
-      <Header />
+      <Header onClick={onClick} closedMenu={closedMenu} />
       <Inner />
       <Projects projectsState={projectsState} />
       <Hire />

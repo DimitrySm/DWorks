@@ -8,7 +8,7 @@ const Skills = (props) => {
   ));
 
   return (
-    <section className={s.skills}>
+    <section className={s.skills} id="skills">
       <div className="container">
         <div className={s.skills__inner}>
           <h3>Мои навыки</h3>
