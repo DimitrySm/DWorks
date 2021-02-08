@@ -10,6 +10,7 @@ const Projects = (props) => {
       key={s.id}
       discription={s.discription}
       img={s.img}
+      href={s.href}
     />
   ));
 
