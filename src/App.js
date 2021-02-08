@@ -81,18 +81,21 @@ function App() {
       title: "Avtotex",
       discription: `Сайт выполнен на технологиях HTML, JS и CSS`,
       img: avtotex,
+      href: "http://www.avtotex.by/",
     },
     {
       id: 2,
       title: "Landing Pages",
       discription: `LandingPages и небольшие Веб сайты на технологиях HTML, JS и CSS`,
       img: myCollages,
+      href: "https://github.com/DimitrySm/Portfolio",
     },
     {
       id: 3,
       title: "SpaceX",
       discription: `SpaceX - это одностраничное приложение выполненное на технологии React`,
       img: spaceX,
+      href: "https://dimitrysm.github.io/SpaceX/",
     },
   ];
 

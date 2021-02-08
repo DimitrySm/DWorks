@@ -9,11 +9,7 @@ const Project = (props) => {
         <div className={s.works__content}>
           <div className={s.work__tittle}>{props.title}</div>
           <div className={s.work__text}>
-            <a
-              href="http://www.avtotex.by/"
-              className={s.work__text__link}
-              target="_blank"
-            >
+            <a href={props.href} className={s.work__text__link} target="_blank">
               Узнать больше
             </a>
           </div>
